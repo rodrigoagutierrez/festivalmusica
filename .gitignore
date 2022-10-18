@@ -1,6 +1,7 @@
 node_modules/
 src/
-.sass-cache
-.package-lock.json
-.gulpfile.js
+sass-cache
+package-lock.json
+gulpfile.js
+
 
